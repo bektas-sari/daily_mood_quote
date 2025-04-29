@@ -12,9 +12,6 @@ Built with simplicity and elegance in mind, it offers a delightful experience th
 - 🌟 Smooth navigation and responsive layout
 - 🔗 Easy to extend with new features or quotes
 
-## 📊 Screenshots
-(Add screenshots here to showcase the app interface.)
-
 ## 📚 Getting Started
 
 Follow these steps to run the project locally:
