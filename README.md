@@ -18,7 +18,7 @@ Follow these steps to run the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/daily_mood_quote.git
+   git clone https://github.com/bektas-sari/daily_mood_quote.git
    ```
 2. Navigate to the project directory:
    ```bash
