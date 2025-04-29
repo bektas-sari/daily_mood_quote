@@ -1,6 +1,7 @@
 # Daily Mood Quote
 
-**Daily Mood Quote** is a clean and minimal Flutter application designed to inspire users with motivational quotes. Built with simplicity and elegance in mind, it offers a delightful experience through a white and light blue themed interface.
+**Daily Mood Quote** is a clean and minimal Flutter application designed to inspire users with motivational quotes. 
+Built with simplicity and elegance in mind, it offers a delightful experience through a white and light blue themed interface.
 
 ## ✨ Features
 
