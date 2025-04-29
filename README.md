@@ -66,7 +66,8 @@ Contributions are welcome! Feel free to open issues, submit pull requests, or su
 
 This project is licensed under the MIT License.
 
----
+## Contact
+Email: bektas.sari@gmail.com
 
-*Made with Flutter ❤️*
+---
 
